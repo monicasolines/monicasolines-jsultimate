@@ -11,10 +11,10 @@ saludo.replace("Mundo", "Hola")
 const nuevoSaludo = saludo.replace("Mundo", "Hola");
 
 
-saludo.toLocaleLowerCase
-saludo.toLocaleUpperCase
-saludo.toLowerCase
-saludo.toUpperCase
+saludo.toLocaleLowerCase();
+saludo.toLocaleUpperCase();
+saludo.toLowerCase();
+saludo.toUpperCase();
 
 
 
