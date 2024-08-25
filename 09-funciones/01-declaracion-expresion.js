@@ -33,5 +33,3 @@ const divide = () => {
     console.log("dividiendo");
     
 }
-
-
