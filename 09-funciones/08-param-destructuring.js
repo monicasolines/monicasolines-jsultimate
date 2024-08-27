@@ -17,6 +17,9 @@ const config = [
 function webserver([url, ...rest]) {
     //crea una constante de la propiedad con el mismo nombre de la propiedad
     //const {url} = config; // esto es igual a const url = config.url;  
+    
+    /// destructuracion = const [url, ...rest] = config;
+    
     console.log(config);
     
     

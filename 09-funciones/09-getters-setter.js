@@ -18,5 +18,5 @@ const usuario = {
     */
 }
 
-usuario.nombreCompleto = 'monica'
+usuario.nombreCompleto = 'monica mal'
 console.log(usuario.nombreCompleto);

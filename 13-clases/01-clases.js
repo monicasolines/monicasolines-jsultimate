@@ -6,6 +6,10 @@ class User {
 
     activo = true;
 
+    logout = () => {
+        console.log('saliendo');
+    }
+
     login() {
         console.log('hola mundo');
         

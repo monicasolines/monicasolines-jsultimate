@@ -1,3 +1,5 @@
+//las fat arrow functions no tiene ARGUMENTS
+// TAMPOCO TIENEN THIS O SUPER
 const suma  = (a, b) => {
     // let total = 0;
     // for (let valor of arguments) {

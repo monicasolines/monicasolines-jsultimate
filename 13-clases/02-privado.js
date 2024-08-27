@@ -5,7 +5,13 @@ class User {
         this.#name = name;
     }
 
+    #logger() {
+
+    }
+    
     getName() {
         return this.#name;
     }
 }
+
+const u = new User('Moni Solines');
